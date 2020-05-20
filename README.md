@@ -1,2 +1,2 @@
-# Employee-Management-Console-applicationa
+# Employee-Management-Console-application
 Employee Salary Management
