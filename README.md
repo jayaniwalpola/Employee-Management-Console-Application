@@ -1,16 +1,5 @@
-# Employee-Management-Console-application
+# JAVA
 Employee Salary Management
 HacktoberfestHacktoberfest
 # Employee-Management-Console-application
-Employee Salary Management
-HacktoberfestHacktoberfest# Employee-Management-Console-application
-Employee Salary Management
-HacktoberfestHacktoberfest# Employee-Management-Console-application
-Employee Salary Management
-HacktoberfestHacktoberfest# Employee-Management-Console-application
-Employee Salary Management
-HacktoberfestHacktoberfest# Employee-Management-Console-application
-Employee Salary Management
-HacktoberfestHacktoberfest# Employee-Management-Console-application
-Employee Salary Management
-HacktoberfestHacktoberfest
+JAVA net application.
