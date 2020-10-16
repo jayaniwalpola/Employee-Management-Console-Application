@@ -22,7 +22,7 @@ namespace ConsoleApplication1
 
             if(YS>5)
             {
-                travelAllowance = 10000;
+                travelAllowance = 500000;
 
             }
             else if(YS>2)
